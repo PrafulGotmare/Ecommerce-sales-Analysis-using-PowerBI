@@ -1,4 +1,6 @@
 # Ecommerce-sales-Analysis-using-PowerBI
+The project provides a detailed examination of an online e-commercial business, using software tools such as Excel and Power BI.
+The analysis and presentation of important performance indicators and patterns are achieved through the utilization of pivot tables, charts, and a Power BI dashboard.
 
 > OBJECTIVE
 * Created interractive a dashboard to track and analyze online sales data across India
